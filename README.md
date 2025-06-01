@@ -42,14 +42,12 @@ Celem projektu było stworzenie systemu symulującego działanie prostego agenta
 5. **Wizualizacja wyników**  
    - Wykres zmian wartości portfela w czasie.
    - Wykresy przedstawiające zmiany stanu poszczególnych walut.
-   - Tabela liczby wykonanych transakcji dla każdej klasy.
-
 
 ---
 
 ## 🧠 Możliwe ulepszenia
 
-- Użycie **realnych danych sekundowych** z dłuższego okresu (jeśli dostępne).
+- Użycie **realnych danych sekundowych** z dłuższego okresu.
 - Wprowadzenie klasy „hold” – brak działania w danym momencie.
 - Umożliwienie **wielu transakcji jednocześnie** (np. wymiana różnych walut za różne kwoty).
 - Zniesienie sztywnego limitu 100 jednostek na transakcję.
