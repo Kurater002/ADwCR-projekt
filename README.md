@@ -67,5 +67,5 @@ Celem projektu było stworzenie systemu symulującego działanie prostego agenta
    python currency_consumer.py`
 4. Po zakończeniu symulacji wygeneruj wykresy:
    ```bash
-   
+   wizualizacja_wynikow.py'
 
